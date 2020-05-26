@@ -1,3 +1,13 @@
+/reports/indentation/spring-framework/site/index.html
+/reports/indentation/spring-framework/site/checkstyle.html
+/reports/indentation/guava/site/index.html
+/reports/indentation/guava/site/checkstyle.html
+/reports/upstream/master/spring-framework/site/index.html
+/reports/upstream/master/spring-framework/site/checkstyle.html
+/reports/upstream/master/guava/site/index.html
+/reports/upstream/master/guava/site/checkstyle.html
+/reports/diff/spring-framework/index.html
+/reports/diff/guava/index.html
 /reportsTabWidth8/upstream/master/hibernate-orm/site/index.html
 /reportsTabWidth8/upstream/master/hibernate-orm/site/checkstyle.html
 /reportsTabWidth8/upstream/master/hibernate-orm-with-excludes/site/index.html
@@ -83,6 +93,7 @@
 /reports2/diff/spring-framework/index.html
 /reports2/diff/spring-integration/index.html
 /reports2/diff/infinispan/index.html
+
 /reports2/diff/Hbase/index.html
 /reports2/diff/guava-mvnstyle/index.html
 /reports2/diff/guava/index.html
