@@ -1,3 +1,8 @@
+reports/indentation/guava/site/index.html
+reports/indentation/guava/site/checkstyle.html
+reports/upstream/master/guava/site/index.html
+reports/upstream/master/guava/site/checkstyle.html
+reports/diff/guava/index.html
 /reportsNew/upstream/master/hibernate-orm/site/index.html
 /reportsNew/upstream/master/hibernate-orm/site/checkstyle.html
 /reportsNew/upstream/master/hibernate-orm-with-excludes/site/index.html
