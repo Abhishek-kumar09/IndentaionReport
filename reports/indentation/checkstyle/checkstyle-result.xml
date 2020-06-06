@@ -255,6 +255,7 @@
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/org/checkstyle/suppressionxpathfilter/rightcurly/SuppressionXpathRegressionRightCurlyThree.java">
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/org/checkstyle/suppressionxpathfilter/rightcurly/SuppressionXpathRegressionRightCurlyFour.java">
+<error line="7" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/org/checkstyle/suppressionxpathfilter/rightcurly/SuppressionXpathRegressionRightCurlyOne.java">
 </file>
@@ -462,6 +463,7 @@
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/sun/checkstyle/test/chapter5comments/rule52documentationcomments/InputInvalidJavadocPosition.java">
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/sun/checkstyle/test/chapter6declarations/rule61numberperline/InputMultipleVariableDeclarations.java">
+<error line="70" column="33" severity="warning" message="&apos;object def&apos; child has incorrect indentation level 16, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/google/checkstyle/test/chapter2filebasic/rule232specialescape/InputIllegalTokenText.java">
 </file>
@@ -652,6 +654,7 @@
 <error line="29" column="17" severity="warning" message="&apos;case&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="30" column="21" severity="warning" message="&apos;block&apos; child has incorrect indentation level 20, expected level should be 24." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="48" column="18" severity="warning" message="&apos;method call rparen&apos; has incorrect indentation level 17, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="79" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="136" column="13" severity="warning" message="&apos;array initialization&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="140" column="13" severity="warning" message="&apos;array initialization&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="141" column="13" severity="warning" message="&apos;array initialization&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -664,6 +667,7 @@
 <error line="29" column="17" severity="warning" message="&apos;case&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="30" column="21" severity="warning" message="&apos;block&apos; child has incorrect indentation level 20, expected level should be 24." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="48" column="18" severity="warning" message="&apos;method call rparen&apos; has incorrect indentation level 17, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="79" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="136" column="13" severity="warning" message="&apos;array initialization&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="140" column="13" severity="warning" message="&apos;array initialization&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="141" column="13" severity="warning" message="&apos;array initialization&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -1783,6 +1787,7 @@
 <error line="249" column="15" severity="warning" message="&apos;switch rcurly&apos; has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="250" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="251" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="252" column="26" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="253" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="254" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="256" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -1811,6 +1816,7 @@
 <error line="286" column="11" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="288" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="289" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="290" column="25" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="291" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="292" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="293" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -1826,6 +1832,7 @@
 <error line="307" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="309" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="310" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="311" column="25" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="312" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="313" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="314" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -1841,6 +1848,7 @@
 <error line="328" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="330" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="331" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="332" column="23" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="333" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="334" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="335" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -1856,6 +1864,7 @@
 <error line="349" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="351" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="352" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="353" column="30" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="354" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="355" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="356" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -1871,6 +1880,7 @@
 <error line="370" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="372" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="373" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="374" column="41" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="375" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="376" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="377" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -2329,6 +2339,7 @@
 <error line="90" column="2" severity="warning" message="&apos;class def modifier&apos; has incorrect indentation level 1, expected level should be 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/google/checkstyle/test/chapter4formatting/rule4821onevariableperline/InputMultipleVariableDeclarations.java">
+<error line="70" column="33" severity="warning" message="&apos;object def&apos; child has incorrect indentation level 16, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/it/resources/com/google/checkstyle/test/chapter4formatting/rule488numericliterals/InputUpperEll.java">
 <error line="56" column="21" severity="warning" message="&apos;array initialization&apos; child has incorrect indentation level 20, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -2365,6 +2376,7 @@
 <error line="60" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="66" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="67" column="5" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="68" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="69" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="71" column="9" severity="warning" message="&apos;class def ident&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="72" column="3" severity="warning" message="&apos;class def lcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -2405,7 +2417,7 @@
 <error line="195" column="3" severity="warning" message="&apos;member def type&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="203" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="204" column="5" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
-<error line="206" column="5" severity="warning" message="&apos;method call&apos; child has incorrect indentation level 4, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="206" column="8" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="208" column="5" severity="warning" message="&apos;method call&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="209" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="216" column="3" severity="warning" message="&apos;member def type&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -3527,6 +3539,9 @@
 <error line="151" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="228" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="239" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="272" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="280" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="288" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="357" column="7" severity="warning" message="&apos;throws&apos; has incorrect indentation level 6, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/javadoc/atclauseorder/package-info.java">
@@ -3891,6 +3906,9 @@
 <error line="147" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="224" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="235" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="268" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="276" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="284" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="353" column="7" severity="warning" message="&apos;throws&apos; has incorrect indentation level 6, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/javadoc/missingjavadoctype/InputMissingJavadocTypeNoJavadoc.java">
@@ -3917,6 +3935,10 @@
 <error line="151" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="228" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="239" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="272" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="280" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="288" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="306" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="367" column="7" severity="warning" message="&apos;throws&apos; has incorrect indentation level 6, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/javadoc/missingjavadocmethod/InputMissingJavadocMethodSmallMethods.java">
@@ -4008,6 +4030,9 @@
 <error line="151" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="228" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="239" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="272" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="280" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="288" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="357" column="7" severity="warning" message="&apos;throws&apos; has incorrect indentation level 6, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/javadoc/javadoctype/InputJavadocTypePublicOnly.java">
@@ -4104,6 +4129,10 @@
 <error line="151" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="228" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="239" column="8" severity="warning" message="&apos;throws&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="272" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="280" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="288" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="306" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="367" column="7" severity="warning" message="&apos;throws&apos; has incorrect indentation level 6, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/javadoc/javadocmethod/InputJavadocMethodConstructor.java">
@@ -4287,9 +4316,10 @@
 <error line="8" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="9" column="9" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 8, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="11" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="28" severity="warning" message="&apos;block&apos; child has incorrect indentation level 8, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="13" column="9" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 8, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="16" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
-<error line="17" column="9" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 8, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" column="10" severity="warning" message="&apos;object def&apos; child has incorrect indentation level 8, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/whitespace/emptylineseparator/InputEmptyLineSeparatorNonPackageInfoWithJavadocBeforePackage.java">
 </file>
@@ -4702,6 +4732,7 @@
 <error line="104" column="9" severity="warning" message="&apos;member def modifier&apos; has incorrect indentation level 8, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/metrics/javancss/InputJavaNCSS.java">
+<error line="35" column="21" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/metrics/classfanoutcomplexity/InputClassFanOutComplexityExcludedPackagesAllIgnored.java">
 </file>
@@ -4795,6 +4826,7 @@
 <error line="85" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="159" column="12" severity="warning" message="&apos;if&apos; child has incorrect indentation level 11, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="160" column="17" severity="warning" message="&apos;if rparen&apos; has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="165" column="39" severity="warning" message="&apos;if&apos; child has incorrect indentation level 16, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="166" column="14" severity="warning" message="&apos;if rcurly&apos; has incorrect indentation level 13, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="172" column="8" severity="warning" message="&apos;try&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="173" column="8" severity="warning" message="&apos;try rcurly&apos; has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -4878,7 +4910,7 @@
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlySinglelineIfBlocks.java">
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyTryResource.java">
-<error line="37" column="13" severity="warning" message="&apos;try rcurly&apos; has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="37" column="15" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyLineBreakBefore.java">
 <error line="27" column="17" severity="warning" message="&apos;case&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -4892,6 +4924,8 @@
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAloneBlocksWithSemi.java">
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAnnotations.java">
+<error line="35" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="113" column="27" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="144" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="145" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="146" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -4920,6 +4954,7 @@
 <error line="187" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="188" column="9" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 8, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="208" column="9" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 8, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="216" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="237" column="4" severity="warning" message="&apos;annotation def modifier&apos; has incorrect indentation level 3, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAloneOrSingleLineNewTokens.java">
@@ -4930,6 +4965,7 @@
 <error line="37" column="17" severity="warning" message="&apos;case&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="38" column="21" severity="warning" message="&apos;block&apos; child has incorrect indentation level 20, expected level should be 24." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="60" column="18" severity="warning" message="&apos;method call rparen&apos; has incorrect indentation level 17, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="93" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="107" column="9" severity="warning" message="&apos;member def type&apos; has incorrect indentation level 8, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="108" column="9" severity="warning" message="&apos;ctor def modifier&apos; has incorrect indentation level 8, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="110" column="17" severity="warning" message="&apos;ctor def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -4954,6 +4990,8 @@
 <error line="23" column="5" severity="warning" message="&apos;class def rcurly&apos; has incorrect indentation level 4, expected level should be 0." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAloneOrSingleline.java">
+<error line="18" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="76" column="27" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="104" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="105" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="106" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -4982,6 +5020,7 @@
 <error line="146" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="147" column="13" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="148" column="9" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 8, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="176" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAloneOrSinglelineLambda.java">
 <error line="44" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -4996,6 +5035,13 @@
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/rightcurly/InputRightCurlyAloneOrSingleLineBlocksWithSemi.java">
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptyblock/InputEmptyBlockCase.java">
+<error line="11" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="29" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="31" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="33" column="9" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptyblock/InputEmptyBlockSemantic2.java">
@@ -5027,6 +5073,10 @@
 <error line="82" column="5" severity="warning" message="&apos;static initialization&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptyblock/InputEmptyBlockDefault.java">
+<error line="6" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="46" column="23" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="87" column="25" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/emptyblock/InputEmptyBlockAnnotationDefaultKeyword.java">
 </file>
@@ -5036,6 +5086,7 @@
 <error line="37" column="17" severity="warning" message="&apos;case&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="38" column="21" severity="warning" message="&apos;block&apos; child has incorrect indentation level 20, expected level should be 24." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="60" column="18" severity="warning" message="&apos;method call rparen&apos; has incorrect indentation level 17, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="93" column="29" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 12, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="107" column="9" severity="warning" message="&apos;member def type&apos; has incorrect indentation level 8, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="108" column="9" severity="warning" message="&apos;ctor def modifier&apos; has incorrect indentation level 8, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="110" column="17" severity="warning" message="&apos;ctor def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -5062,6 +5113,7 @@
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/leftcurly/InputLeftCurlyFirstLine.java">
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/leftcurly/InputLeftCurlyIgnoreEnums.java">
+<error line="20" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/leftcurly/InputLeftCurlyAnnotations.java">
 </file>
@@ -5153,10 +5205,14 @@
 <error line="58" column="5" severity="warning" message="&apos;switch rcurly&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBracesSingleLineLambda.java">
+<error line="12" column="26" severity="warning" message="&apos;block&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="64" severity="warning" message="&apos;block&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="31" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBracesEmptyDefault.java">
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBraces.java">
+<error line="110" column="21" severity="warning" message="&apos;case&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/checks/blocks/needbraces/InputNeedBracesSingleLineStatements.java">
 <error line="60" column="14" severity="warning" message="&apos;for&apos; child has incorrect indentation level 13, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -6176,6 +6232,7 @@
 <error line="21" column="5" severity="warning" message="&apos;while rcurly&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="22" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="24" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" column="16" severity="warning" message="&apos;label&apos; child has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="26" column="5" severity="warning" message="&apos;while rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="27" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="29" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -6186,12 +6243,14 @@
 <error line="35" column="5" severity="warning" message="&apos;for rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="36" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="38" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="39" column="11" severity="warning" message="&apos;label&apos; child has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="40" column="7" severity="warning" message="&apos;if&apos; has incorrect indentation level 6, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="41" column="9" severity="warning" message="&apos;if&apos; child has incorrect indentation level 8, expected level should be one of the following: 16, 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="42" column="7" severity="warning" message="&apos;if rcurly&apos; has incorrect indentation level 6, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="43" column="5" severity="warning" message="&apos;for rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="44" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="46" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" column="9" severity="warning" message="&apos;label&apos; child has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="48" column="5" severity="warning" message="&apos;if rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="49" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="51" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -6199,6 +6258,7 @@
 <error line="54" column="5" severity="warning" message="&apos;if rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="55" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="57" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="58" column="9" severity="warning" message="&apos;label&apos; child has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="59" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="61" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="63" column="5" severity="warning" message="&apos;label&apos; child has incorrect indentation level 4, expected level should be one of the following: 8, 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -6247,6 +6307,7 @@
 <error line="114" column="3" severity="warning" message="&apos;class def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="116" column="3" severity="warning" message="&apos;member def type&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="117" column="5" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="118" column="12" severity="warning" message="&apos;label&apos; child has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="119" column="7" severity="warning" message="&apos;while rcurly&apos; has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="120" column="5" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="122" column="5" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -6261,12 +6322,14 @@
 <error line="134" column="7" severity="warning" message="&apos;for rcurly&apos; has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="135" column="5" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="137" column="5" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="138" column="13" severity="warning" message="&apos;label&apos; child has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="139" column="9" severity="warning" message="&apos;if&apos; has incorrect indentation level 8, expected level should be one of the following: 14, 18, 22." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="140" column="11" severity="warning" message="&apos;if&apos; child has incorrect indentation level 10, expected level should be one of the following: 18, 22, 26." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="141" column="9" severity="warning" message="&apos;if rcurly&apos; has incorrect indentation level 8, expected level should be one of the following: 14, 18, 22." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="142" column="7" severity="warning" message="&apos;for rcurly&apos; has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="143" column="5" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="145" column="5" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="146" column="11" severity="warning" message="&apos;label&apos; child has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="147" column="7" severity="warning" message="&apos;if rcurly&apos; has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="148" column="5" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="150" column="5" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -6274,6 +6337,7 @@
 <error line="153" column="7" severity="warning" message="&apos;if rcurly&apos; has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="154" column="5" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="156" column="5" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="157" column="11" severity="warning" message="&apos;label&apos; child has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="158" column="5" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="160" column="5" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 4, expected level should be one of the following: 6, 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="162" column="7" severity="warning" message="&apos;label&apos; child has incorrect indentation level 6, expected level should be one of the following: 10, 14, 18." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -7543,6 +7607,7 @@
 <error line="249" column="15" severity="warning" message="&apos;switch rcurly&apos; has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="250" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="251" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="252" column="26" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="253" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="254" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="256" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -7571,6 +7636,7 @@
 <error line="286" column="11" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="288" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="289" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="290" column="25" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="291" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="292" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="293" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -7586,6 +7652,7 @@
 <error line="307" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="309" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="310" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="311" column="25" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="312" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="313" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="314" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -7601,6 +7668,7 @@
 <error line="328" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="330" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="331" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="332" column="23" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="333" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="334" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="335" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -7616,6 +7684,7 @@
 <error line="349" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="351" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="352" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="353" column="30" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="354" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="355" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="356" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -7631,6 +7700,7 @@
 <error line="370" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="372" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="373" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="374" column="40" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="375" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="376" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="377" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -7854,6 +7924,7 @@
 <error line="123" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="129" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="130" column="5" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="131" column="7" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="132" column="3" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="138" column="3" severity="warning" message="&apos;method def modifier&apos; has incorrect indentation level 2, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="139" column="5" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -8568,6 +8639,7 @@
 <error line="255" column="15" severity="warning" message="&apos;switch rcurly&apos; has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="256" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="257" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="258" column="26" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="259" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="260" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="262" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -8596,6 +8668,7 @@
 <error line="292" column="11" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="294" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="295" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="296" column="25" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="297" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="298" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="299" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -8611,6 +8684,7 @@
 <error line="313" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="315" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="316" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="317" column="25" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="318" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="319" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="320" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -8626,6 +8700,7 @@
 <error line="334" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="336" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="337" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="338" column="23" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="339" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="340" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="341" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -8641,6 +8716,7 @@
 <error line="355" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="357" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="358" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="359" column="30" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="360" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="361" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="362" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -8656,6 +8732,7 @@
 <error line="376" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="378" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="379" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="380" column="40" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="381" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="382" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="383" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -8992,6 +9069,7 @@
 <error line="249" column="15" severity="warning" message="&apos;switch rcurly&apos; has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="250" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="251" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="252" column="26" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="253" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="254" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="256" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -9020,6 +9098,7 @@
 <error line="286" column="11" severity="warning" message="&apos;block rcurly&apos; has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="288" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="289" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="290" column="25" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="291" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="292" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="293" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -9035,6 +9114,7 @@
 <error line="307" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="309" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="310" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="311" column="25" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="312" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="313" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="314" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -9050,6 +9130,7 @@
 <error line="328" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="330" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="331" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="332" column="23" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="333" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="334" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="335" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -9065,6 +9146,7 @@
 <error line="349" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="351" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="352" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="353" column="30" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="354" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="355" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="356" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -9080,6 +9162,7 @@
 <error line="370" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="372" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="373" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="374" column="40" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="375" column="17" severity="warning" message="&apos;block&apos; child has incorrect indentation level 16, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="376" column="11" severity="warning" message="&apos;case&apos; child has incorrect indentation level 10, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="377" column="15" severity="warning" message="&apos;block&apos; child has incorrect indentation level 14, expected level should be 20." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -9893,6 +9976,8 @@
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/asttreestringprinter/InputAstTreeStringPrinterFullOfBlockComments.java">
 <error line="7" column="4" severity="warning" message="&apos;String&apos; has incorrect indentation level 3, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="8" column="23" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="23" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="10" column="17" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="13" column="17" severity="warning" message="&apos;for rcurly&apos; has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="14" column="17" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -10161,6 +10246,8 @@
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/grammar/comments/InputFullOfBlockComments.java">
 <error line="7" column="4" severity="warning" message="&apos;String&apos; has incorrect indentation level 3, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="8" column="23" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="23" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="10" column="17" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="13" column="17" severity="warning" message="&apos;for rcurly&apos; has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 <error line="14" column="17" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 16, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -10503,6 +10590,8 @@
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/grammar/InputRegressionJavaInterface1.java">
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/grammar/InputRegressionJavaClass1.java">
+<error line="304" column="21" severity="warning" message="&apos;block&apos; child has incorrect indentation level 12, expected level should be 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="332" column="31" severity="warning" message="&apos;label&apos; child has incorrect indentation level 8, expected level should be one of the following: 12, 16." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/checkstyle/src/test/resources/com/puppycrawl/tools/checkstyle/grammar/InputVararg.java">
 </file>

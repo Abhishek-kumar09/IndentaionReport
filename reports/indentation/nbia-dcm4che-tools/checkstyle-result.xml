@@ -9311,6 +9311,7 @@
 <error line="432" column="9" severity="warning" message="&apos;method def rcurly&apos; has incorrect indentation level 8, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/mbean/UpdateAttributesService.java">
+<error line="254" column="35" severity="warning" message="&apos;if&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/mbean/FileSystemMgt2Service.java">
 <error line="167" column="12" severity="warning" message="&apos;if&apos; child has incorrect indentation level 11, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
@@ -9331,6 +9332,7 @@
 <error line="724" column="12" severity="warning" message="&apos;if&apos; has incorrect indentation level 11, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/mbean/TLSConfigService.java">
+<error line="153" column="65" severity="warning" message="&apos;if&apos; child has incorrect indentation level 8, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
 </file>
 <file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/mbean/MD5CheckService.java">
 <error line="240" column="5" severity="warning" message="&apos;throws&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
